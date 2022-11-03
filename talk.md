@@ -88,7 +88,7 @@ told nice things about the platform
 8
 So they really big on pulling in more potential developers
 
-They have a Discord
+They have a Discord and Telegram channels
 where you can find useful infos and
 people to connect with and collaborate
 
@@ -114,30 +114,38 @@ By the way
 the platform's native token is called RDX
 
 There are two main concepts if we talk about Scrypto
+
 Blueprints and Components
-I felt like thy talk about OOP the whole time
+
+I felt like they talk about OOP the whole time
 where Blueprints are the classes
 and
 Components are the objects
-But of course if you like to unlock billions and bring in new devs you
-can't use already existing terms, you probably have to invent something new
+
+But of course if you like to unlock billions and bring in new people
+you can't use already existing terms
+you have be inventive and come up with new ones
 
 11
 So a few things that you can find on their website about Scrypto
 
 It's simple and secure
+it's asset-oriented
 
-Powerful, familiar, built for finance
+Powerful, familiar
 of course if you are familiar with Rust
 because it's based on that
 
 Share and get rewarded
-this part sounds really cool
-they concentrate on open-source
+
+this part sounds cool
+they focus on open-source
+
 and incentivising sharing code
 through what they call a "Blueprint catalog"
+
 so for example if I understand correctly
-there is an on network royalty system
+there is an "on network" royalty system
 which will get developers rewarded
 if somebody uses their solution shared in that catalog
 
@@ -146,12 +154,12 @@ so essentially if somebody uses your code you get paid
 ## Q&A
 
 12
+Now it's time to a quick Q&A
 
 ## Thanks
 
 13
-
 I created a repo with a few useful links
 which you can check out here
 
-I posted this link in the teams group so you can find it there
+I will post a link to the slides in the group later
