@@ -79,7 +79,7 @@ from LMFAO
 who at first glance just invalidated the whole conf
 but then I realized that they showed this guy because
 he is not a programmer, he is not legit
-and if he can still can understand how this works
+and if he still can understand how this works
 then it's really accomplishes it's goal to bring DeFi to the mainstream
 
 and after him they also showed a more seasoned guy who also
