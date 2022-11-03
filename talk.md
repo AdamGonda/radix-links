@@ -70,7 +70,7 @@ A public Ledger entirely focused on bringing DeFi into the mainstream
 
 5
 And to illustrate that they showed a few guys who marvelled at they solution
-like this guy
+like this one
 
 6
 from LMFAO
