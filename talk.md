@@ -8,7 +8,7 @@ This will be a Knowledge transfer session
 about this recent event I attended at szeged
 
 2
-Let's see how this next 10-15 minutes roughly will look like
+Let's see what the next 10-15 minutes roughly will look like
 
 We will check out
 What was the event about first
