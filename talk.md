@@ -46,7 +46,7 @@ they say 220x'd to $220bn
 but
 developers are not, they are just 2x'd to 19.000
 which means if you do the math
-that one developer worth is $11.5bn of total value
+one developer worth is $11.5bn of total value
 in terms of the value that they were able to bring on average
 to the applications that they're building
 
@@ -93,7 +93,7 @@ where you can find useful infos and
 people to connect with and collaborate
 
 9
-They have some kind of developer program, that I don't know much about
+They have some kind of developer program also, that I don't know that much about
 but you can check it out on their website
 as their Docs
 
@@ -111,7 +111,7 @@ Scrypto is an asset-oriented programming language for DeFi
 
 You can use it to create smart contracts on the Radix platform
 By the way
-the platforms native token is called RDX
+the platform's native token is called RDX
 
 There are two main concepts if we talk about Scrypto
 Blueprints and Components
@@ -123,7 +123,7 @@ But of course if you like to unlock billions and bring in new devs you
 can't use already existing terms, you probably have to invent something new
 
 11
-So a few things that you can find on their website
+So a few things that you can find on their website about Scrypto
 
 It's simple and secure
 
@@ -135,10 +135,23 @@ Share and get rewarded
 this part sounds really cool
 they concentrate on open-source
 and incentivising sharing code
-through what they call "Blueprint catalog"
-so for example if I understand it correctly
+through what they call a "Blueprint catalog"
+so for example if I understand correctly
 there is an on network royalty system
 which will get developers rewarded
 if somebody uses their solution shared in that catalog
 
-so essentially if somebody uses your code you get money
+so essentially if somebody uses your code you get paid
+
+## Q&A
+
+12
+
+## Thanks
+
+13
+
+I created a repo with a few useful links
+which you can check out here
+
+I posted this link in the teams group so you can find it there
