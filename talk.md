@@ -76,7 +76,7 @@ like this one
 from LMFAO
 
 7
-who at first glance just invalidates the whole thing
+who at first glance just invalidated the whole conf
 but then I realized that they showed this guy because
 he is not a programmer, he is not legit
 and if he can still can understand how this works
